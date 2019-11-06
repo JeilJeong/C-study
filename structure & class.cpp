@@ -1,4 +1,4 @@
-#include<iostream>
+/*#include<iostream>
 
 using namespace std;
 
@@ -46,3 +46,4 @@ int main() {
 	lg.setChannel(10);
 	lg.setVolume(50);
 }
+*/
